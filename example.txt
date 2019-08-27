@@ -1,1 +1,2 @@
 #Look its an example file
+This edit will clash with your edit
