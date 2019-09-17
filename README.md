@@ -12,4 +12,5 @@ I made a copy of lecture 5 recap in my directory. I added code to calculate
 the inner product of two column vectors, as well as the outer product
 by four loop and by @ symbol.
 
-
+Update to Hw2B: previous notebook was erroneous. I have now made a copy 
+of the correct homework file, and added my code to each exercise. 
