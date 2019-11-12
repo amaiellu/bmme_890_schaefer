@@ -14,3 +14,7 @@ by four loop and by @ symbol.
 
 Update to Hw2B: previous notebook was erroneous. I have now made a copy 
 of the correct homework file, and added my code to each exercise. 
+
+Hw4: 
+Added python notebook used to create models for titanic Kaggle 
+competition
