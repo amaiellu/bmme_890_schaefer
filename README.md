@@ -18,3 +18,12 @@ of the correct homework file, and added my code to each exercise.
 Hw4: 
 Added python notebook used to create models for titanic Kaggle 
 competition
+
+Hw5: 
+Added python notebook used to create models for housing regression Kaggle competition
+
+HW6: Added Spike sorting HW
+
+HW7: Added neural network HW
+
+Final Project: Added various notebooks used to train models for final presentation. Reorganized hws into folders
